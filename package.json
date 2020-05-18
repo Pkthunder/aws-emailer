@@ -1,6 +1,6 @@
 {
   "name": "@jared-dev/aws-emailer",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A basic, out-of-the-box ready Emailer Service, hosted in AWS, deployed by CDK, using SQS and Lambda",
   "main": "./cdk/index.js",
   "types": "./cdk/index.d.ts",
